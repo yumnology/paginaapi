@@ -1,3 +1,5 @@
+# https://github.com/yumnology/paginaapi 
+# https://paginaapi.onrender.com
 from flask import Flask, render_template, request, redirect, url_for
 import requests
 
